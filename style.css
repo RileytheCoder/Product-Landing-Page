@@ -1,0 +1,70 @@
+@import url("https://fonts.googleapis.com/css2?family=Righteous&display=swap");
+body {
+  background-color: black;
+}
+#page-wrapper {
+  font-family: "Righteous", cursive;
+  color: white;
+  letter-spacing: 2px;
+  padding: 0 10%;
+}
+.logo {
+  text-align: center;
+}
+a {
+  text-decoration: none;
+  color: #00e7fd;
+  text-shadow: 0 0 14px #00e7fd;
+  letter-spacing: 2px;
+  font-size: 26px;
+}
+a:hover {
+  font-size: 30px;
+}
+ul {
+  list-style: none;
+}
+nav {
+  background-color: black;
+  top: 0;
+  width: 100%;
+  padding: 10px;
+}
+nav > ul {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.icon {
+  width: 100px;
+  background-color: ;
+  border-radius: 20%;
+  text-align: center;
+}
+#features {
+  text-align: ;
+}
+#newsletter {
+  text-align: center;
+}
+footer {
+  margin-top: 30px;
+  background-color: #0d0d0d;
+  padding: 20px;
+}
+
+footer > ul {
+  display: flex;
+  justify-content: flex-end;
+}
+
+footer > ul > li {
+  padding: 0 10px;
+}
+
+footer > span {
+  margin-top: 5px;
+  display: flex;
+  justify-content: flex-end;
+  font-size: 0.9em;
+}
