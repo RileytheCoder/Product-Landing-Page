@@ -8,18 +8,20 @@ body {
   letter-spacing: 2px;
   padding: 0 10%;
 }
+
+
 .logo {
   text-align: center;
 }
-a {
+
+
+/* Navigation Bar */
+.nav-link {
   text-decoration: none;
   color: #00e7fd;
   text-shadow: 0 0 14px #00e7fd;
   letter-spacing: 2px;
   font-size: 26px;
-}
-a:hover {
-  font-size: 30px;
 }
 ul {
   list-style: none;
@@ -35,14 +37,27 @@ nav > ul {
   flex-direction: row;
   justify-content: space-around;
 }
-.icon {
-  width: 100px;
-  border-radius: 20%;
-  text-align: center;
+
+
+/* Feature One */
+.icon1 {
+  float: left;
 }
+.title1 {
+  font-size: 
+  
+}
+
+
+
+
+/* News letter */
 #newsletter {
   text-align: center;
 }
+
+
+/* Footer */
 footer {
   margin-top: 30px;
   background-color: #323232;
