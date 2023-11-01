@@ -42,14 +42,59 @@ nav > ul {
 /* Feature One */
 .icon1 {
   float: left;
+  width: 10em;
+  height: 10em;
+  margin-right: 2em;
 }
-.title1 {
-  font-size: 
-  
+.f1 {
+  margin-top: 5em;
+}
+
+/* Feature two */
+.icon2 {
+  float: left;
+  width: 10em;
+  height: 10em;
+  margin-right: 2em;
+}
+.f2 {
+  margin-top: 10em;
+}
+/* Feature three */
+.icon3 {
+  float: left;
+  width: 10em;
+  height: 10em;
+  margin-right: 2em;
+}
+.f3 {
+  margin-top: 10em;
+  margin-bottom: 10em;
 }
 
 
 
+/* Pricing */
+.protection {
+  float: left;
+  width: 50%;
+  text-align: center;
+}
+#proimage {
+  margin: 2em;
+  width: 20em;
+  height: auto;
+}
+.style {
+  float: left;
+  text-align: center;
+  width: 50%;
+}
+#styleimage {
+  margin: 2em;
+  width: 20em;
+  height: auto;
+}
 
 /* News letter */
 #newsletter {
